@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    color: #d1d1d1;
+    font-family: sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 190px;
+    margin-right: 10px;
+  }
+  
+  .nav {
+    display: flex;
+    gap: 30px;
+  }
+  
+  .nav a {
+    color: #d1d1d1;
+    text-decoration: none;
+  }
+  
+  .buttons {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    border: 1px solid #d1d1d1;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #d1d1d1;
+    font-weight: bold;
+  }
+  
+  .button.login {
+    background-color: black;
+  }
+  
+  .button.register {
+    background-color: white;
+    color: black;
+  }
