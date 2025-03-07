@@ -1,8 +1,21 @@
-# React + Vite
+👗📊 Fashion Trending Analysis
+A React.js & Flask-powered web application that provides insights into fashion trends using Chart.js for interactive data visualization. This tool enables users to filter trends, analyze patterns, and automatically add trending fashion names.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 Features
+✅ Interactive Trend Charts – Powered by Chart.js for real-time visualization.
+✅ Dynamic Filtering – Apply filters to refine trend analysis.
+✅ Automatic Name Addition – Detects and adds trending fashion names dynamically.
+✅ React.js Frontend – Deployed on Vercel for a smooth UI experience.
+✅ Flask Backend – Handles data processing, deployed on Render.
 
-Currently, two official plugins are available:
+🔗 [Fashion Trending Analysis](https://stylumia-orig-lryb-git-master-krishnafaujs-projects.vercel.app/)
+![image](https://github.com/user-attachments/assets/55248fb6-3d63-43e3-9d4f-36f7af4ebe79)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+🛠️ Tech Stack
+Frontend: React.js, Chart.js, Tailwind CSS
+Backend: Flask (Python), Pandas, NumPy
+Deployment:
+Frontend: Vercel
+Backend: Render
+
